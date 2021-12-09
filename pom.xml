@@ -158,7 +158,7 @@
               <goal>xjc</goal>
             </goals>
             <configuration>
-              <packageName>com.github.jinahya.org.ehcache.v3.bind.javax</packageName>
+              <packageName>com.github.jinahya.org.ehcache.v3.bind</packageName>
             </configuration>
           </execution>
         </executions>
